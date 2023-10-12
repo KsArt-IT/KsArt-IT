@@ -1,6 +1,6 @@
 # KsArT
 ![Profile photo](/images/profile_photo.png)
-- 👋 Hi, I’m @KsArT
+- 👋 Hi, I’m KsArT
 
 ## Contact Info:
 [![ksart.it@gmail.com](/images/email_logo.png)](mailto:ksart.it@gmail.com)
@@ -9,14 +9,14 @@
 [![Telegram](/images/telegram_logo.png)](https://t.me/KsArT_IT)
 
 ## Summary:
-My hobby has always been programming, but my dream was to become a professional programmer. I decided to fulfill my dream and become a programmer. I chose the direction of mobile application development.
+I'm an android developer
 
 ## Skills:
 * **Languages:** Kotlin, Java, Delphi, other
-* **Architecture patterns:** MVP, MVVM
+* **Architecture patterns:** MVI, MVVM, MVP
 * **Frameworks:** 
-* **Database:** SQL, SQLite, RoomDao
-* **VCS:** Git, Github, Gitlab
+* **Database:** RoomDao, SQL, SQLite
+* **VCS:** Github, Git, Gitlab
 
 ## Experience:
 ### -
@@ -30,6 +30,8 @@ My hobby has always been programming, but my dream was to become a professional 
 * **Rs School - Android developer** 2021
 
 * **Skillbox.ru - Android developer** 2020-2023
+
+* **Android Academy Jetpack Compose** 2023
 
 ## Languages:
 * **English (A2)**
