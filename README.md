@@ -12,8 +12,8 @@
 I'm an android developer
 
 ## Skills:
-* **Languages:** Kotlin, Java, Delphi, other
-* **Architecture patterns:** MVI, MVVM, MVP
+* **Languages:** Kotlin, Java, Swift, Delphi, other
+* **Architecture patterns:** MVI, MVVM, MVP, MVC
 * **Frameworks:** 
 * **Database:** RoomDao, SQL, SQLite
 * **VCS:** Github, Git, Gitlab
@@ -23,15 +23,17 @@ I'm an android developer
 
 
 ## Education:
-* **Java - JavaRush.ru** 2019 - 2020
+* **Java - JavaRush.ru** 2019 - 2020 [Completed](https://javarush.com/users/2101337)
 
 * **Android Academy Global** 2020
 
-* **Rs School - Android developer** 2021
+* **Rs School - Android developer** 2021 [CERTIFICATE](https://app.rs.school/certificate/8c6i5191)
 
-* **Skillbox.ru - Android developer** 2020-2023
+* **Skillbox.ru - Android developer** 2020-2022
 
 * **Android Academy Jetpack Compose** 2023
+
+* **Shpp - CS & iOS developer** 2024 [Diplom](https://diploma.programming.org.ua/en/d/4Qp1jOgb967VBZmPPamvJl2nDWAGMNaL)
 
 ## Languages:
 * **English (A2)**
