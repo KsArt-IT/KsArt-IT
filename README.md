@@ -9,13 +9,13 @@
 [![Telegram](/images/telegram_logo.png)](https://t.me/KsArT_IT)
 
 ## Summary:
-I'm an android developer
+I am a mobile app developer, iOS and Android, and now Flutter.
 
 ## Skills:
-* **Languages:** Kotlin, Java, Swift, Delphi, other
-* **Architecture patterns:** MVI, MVVM, MVP, MVC
+* **Languages:** Dart, Swift, Kotlin, Java, other
+* **Architecture patterns:** MVI, MVVM-C, MVVM, MVC-C, MVC, MVP
 * **Frameworks:** 
-* **Database:** RoomDao, SQL, SQLite
+* **Database:** SwiftData, RoomDao, SQL, SQLite
 * **VCS:** Github, Git, Gitlab
 
 ## Experience:
@@ -23,17 +23,17 @@ I'm an android developer
 
 
 ## Education:
-* **Java - JavaRush.com** 2019 - 2020 [![Completed](/images/edu_logo.png)](https://javarush.com/users/2101337)
-
-* **Android Academy Global** 2020
-
-* **Rs School - Android developer** 2021 [![Certificate](/images/certificate_logo.png)](https://app.rs.school/certificate/8c6i5191)
-
-* **Skillbox.ru - Android developer** 2020-2022
+* **Ш++ IT-School - CS & iOS developer** 2024 [![Diplom](/images/education_logo.png)](https://diploma.programming.org.ua/en/d/4Qp1jOgb967VBZmPPamvJl2nDWAGMNaL)
 
 * **Android Academy Jetpack Compose** 2023
 
-* **Shpp - CS & iOS developer** 2024 [![Diplom](/images/education_logo.png)](https://diploma.programming.org.ua/en/d/4Qp1jOgb967VBZmPPamvJl2nDWAGMNaL)
+* **Skillbox.ru - Android developer** 2020-2022
+
+* **Rs School - Android developer** 2021 [![Certificate](/images/certificate_logo.png)](https://app.rs.school/certificate/8c6i5191)
+
+* **Android Academy Global** 2020
+
+* **Java - JavaRush.com** 2019 - 2020 [![Completed](/images/edu_logo.png)](https://javarush.com/users/2101337)
 
 ## Languages:
 * **English (A2)**
